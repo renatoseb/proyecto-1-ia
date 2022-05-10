@@ -1,0 +1,17 @@
+Training examples: 8657
+	Class-id 0 : 195 	2 %
+	Class-id 1 : 2158 	25 %
+	Class-id 2 : 2466 	28 %
+	Class-id 3 : 1599 	18 %
+	Class-id 4 : 2239 	26 %
+Training examples: 16237
+	Class-id 0 : 195 	1 %
+	Class-id 1 : 2158 	13 %
+	Class-id 2 : 2466 	15 %
+	Class-id 3 : 1599 	10 %
+	Class-id 4 : 2239 	14 %
+	Class-id 5 : 2210 	14 %
+	Class-id 6 : 522 	3 %
+	Class-id 7 : 1640 	10 %
+	Class-id 8 : 1648 	10 %
+	Class-id 9 : 1560 	10 %

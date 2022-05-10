@@ -1,0 +1,16 @@
+<class 'sklearn.neighbors._classification.KNeighborsClassifier'>
+	....Working on ./data/data_10_5_cuts.csv .csv file
+train error: 0.13260008798944123
+test error: 0.23275862068965514
+k-fold mean error:   0.1940018256649335
+bootstrap mean error:   0.2683908201631072
+	accuracy on class 0-th: 80.59701 %
+	accuracy on class 1-th: 87.54153 %
+	accuracy on class 2-th: 83.31108 %
+	accuracy on class 3-th: 76.5748 %
+	accuracy on class 4-th: 78.90625 %
+	accuracy on class 5-th: 80.66971 %
+	accuracy on class 6-th: 76.68712 %
+	accuracy on class 7-th: 76.78571 %
+	accuracy on class 8-th: 83.10139 %
+	accuracy on class 9-th: 82.881 %
