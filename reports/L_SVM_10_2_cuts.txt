@@ -1,0 +1,16 @@
+<class 'sklearn.svm._classes.LinearSVC'>
+	....Working on ./data/data_10_2_cuts.csv .csv file
+train error: 0.08358996920369555
+test error: 0.125
+k-fold mean error:   0.12785667999113726
+bootstrap mean error:   0.14569339047962448
+	accuracy on class 0-th: 62.29508 %
+	accuracy on class 1-th: 84.01977 %
+	accuracy on class 2-th: 91.14441 %
+	accuracy on class 3-th: 89.5966 %
+	accuracy on class 4-th: 92.87791 %
+	accuracy on class 5-th: 85.22388 %
+	accuracy on class 6-th: 98.7013 %
+	accuracy on class 7-th: 81.6 %
+	accuracy on class 8-th: 91.8 %
+	accuracy on class 9-th: 95.89322 %
